@@ -1,3 +1,10 @@
 h1 {
   color: purple;
 }
+img {
+  width:200px;
+  height:70px;
+}
+.impo {
+  font-size: 20px;
+}
