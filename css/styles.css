@@ -1,10 +1,50 @@
 h1 {
-  color: purple;
+  color: pink;
+  padding: 6%;
+  font-size: 40px;
+  padding-left: 2%;
 }
-img {
-  width:200px;
-  height:70px;
+div.secA {
+  padding: 4%;
+  text-align: justify;
+  font-size: 18px;
+}
+img{
+  border-radius: 50%;
+  border: 3px white solid;
+  float: left;
+  height: 300px;
+  width: 300px;
+  transition: all .2s ease-in-out;
+  opacity:0.5;
+  transform: rotate(-90deg);
+}
+img:hover {
+  transform:scale(1.3);
+  opacity: 1;
+  transform: rotate(-80deg);
+}
+h2 {
+  font-size: 20px;
+  color: darkred;
 }
 .impo {
   font-size: 20px;
+  color: darkred;
+}
+p {
+  font-size: 18px;
+  font-style: normal;
+}
+li {
+  font-style: normal;
+  font-size: 18px;
+}
+div.secB {
+  padding: 2%;
+  margin: auto;
+}
+div.secC {
+  padding: 2%;
+  margin: auto;
 }
