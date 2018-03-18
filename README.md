@@ -22,7 +22,7 @@ _No Known Bugs._
 
 ## Support and contact details
 
-_If you run into any issues or have questions, ideas or concerns, contact me at **https://janetisak.github.io/**. I encourage you to make a contribution to the code if see fit for improvement._
+_If you run into any issues or have questions, ideas or concerns, contact me at **janetisak@yahoo.com**. I encourage you to make a contribution to the code if see fit for improvement._
 
 ## Technologies Used
 
