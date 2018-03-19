@@ -10,12 +10,12 @@ _This website is his is the landing page for my programming Portfolio including 
 
 ## Setup/Installation Requirements
 
-* _Clone this repository from my Github named JanetIsak._
-* _cd into it and ls it to see the html, css and README folders._
-* _check with a command git remote -v to check if done correctly._
-* _Open it on web-browser of your choice, and start using it._
-* _Any changes must be pushed to Github with origin name instead of master._
-*_Go to https://janetisak.github.io/ for more information.
+_Clone this repository from my Github named JanetIsak._
+_cd into it and ls it to see the html, css and README folders._
+_check with a command git remote -v to check if done correctly._
+_Open it on web-browser of your choice, and start using it._
+_Any changes must be pushed to Github with origin name instead of master._
+_Go to https://janetisak.github.io/ for more information._
 
 ## Known Bugs
 
