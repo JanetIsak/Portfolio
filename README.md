@@ -15,6 +15,7 @@ _This website is his is the landing page for my programming Portfolio including 
 * _check with a command git remote -v to check if done correctly._
 * _Open it on web-browser of your choice, and start using it._
 * _Any changes must be pushed to Github with origin name instead of master._
+*_Go to https://janetisak.github.io/ for more information.
 
 ## Known Bugs
 
